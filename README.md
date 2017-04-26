@@ -1,4 +1,7 @@
-# api documentation for  [numbers (v0.6.0)](https://github.com/numbers/numbers.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-numbers.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-numbers) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-numbers.svg)](https://travis-ci.org/npmdoc/node-npmdoc-numbers)
+# npmdoc-numbers
+
+#### basic api documentation for  [numbers (v0.6.0)](https://github.com/numbers/numbers.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-numbers.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-numbers) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-numbers.svg)](https://travis-ci.org/npmdoc/node-npmdoc-numbers)
+
 #### Advanced Mathematics Library for JavaScript
 
 [![NPM](https://nodei.co/npm/numbers.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/numbers)
@@ -98,7 +101,8 @@
         "lint": "gulp lint",
         "test": "gulp test"
     },
-    "version": "0.6.0"
+    "version": "0.6.0",
+    "bin": {}
 }
 ```
 
